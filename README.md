@@ -4,6 +4,10 @@
 
 ### Project Goal:
 The main goal of this project is to analyze the retail sales data of a coffee shop for the business to take actionable insights that improve overall performance. The analysis of customer behavior and sales trends, product preferences enhances decision-making to help improve customer experience and profitability.
+
+### Disclaimer
+
+This project uses a "fictional dataset" based on the structure of Unilever. The data is completely synthetic and used solely for educational purposes. None of the information represents real company data or business operations.
  
 ### Data Overview:-
 
