@@ -7,7 +7,7 @@ The main goal of this project is to analyze the retail sales data of a coffee sh
 
 ### Disclaimer
 
-This project uses a "fictional dataset" based on the structure of Unilever. The data is completely synthetic and used solely for educational purposes. None of the information represents real company data or business operations.
+This project uses a "fictional dataset" based on the structure of Coffee sales. The data is completely synthetic and used solely for educational purposes. None of the information represents real coffee shop or business operations.
  
 ### Data Overview:-
 
